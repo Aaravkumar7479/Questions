@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+
 #include <stdlib.h>
 
 int binarySearch(float arr[], int n, float target)
