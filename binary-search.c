@@ -1,6 +1,10 @@
 #include <stdio.h>
-
 #include <stdlib.h>
+
+//Binary search works on sorted arrays.
+//If the element repeats, binary search will find one occurrence (not guaranteed which one).
+
+
 
 int binarySearch(float arr[], int n, float target)
 {
