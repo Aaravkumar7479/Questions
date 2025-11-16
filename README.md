@@ -1,5 +1,7 @@
 # 🧮 Data Structures & Algorithms (DSA)
 
+
+
 ##📝 Overview
 
 This repository contains solutions to various **Data Structures and Algorithms** problems that I practice and push regularly.  
@@ -20,7 +22,8 @@ It serves as a personal archive, learning resource, and reference for interview 
 - Advanced Topics (Heaps, Tries, Segment Trees, etc.)-->
 
 ---
-##🎯 Purpose
+
+## 🎯 Purpose
 
 - Strengthen problem-solving skills
 - Prepare for coding interviews and contests
@@ -28,14 +31,14 @@ It serves as a personal archive, learning resource, and reference for interview 
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Language : C
 - IDE: VS Code
 
 ---
 
-##📌 Note
+## 📌 Note
 
 - Some solutions are complete while others are still in progress.
 - This repo is continuously updated as I solve new problems.
@@ -43,6 +46,7 @@ It serves as a personal archive, learning resource, and reference for interview 
 
 ---
 ## 🚀 How to Use
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aaravkumar7479/Questions.git
