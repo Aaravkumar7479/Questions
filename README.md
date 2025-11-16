@@ -45,7 +45,7 @@ It serves as a personal archive, learning resource, and reference for interview 
 
 - Some solutions are complete while others are still in progress.
 - This repo is continuously updated as I solve new problems.
-- Feel free to explore, learn.
+- Feel free to explore and learn.
 
 ---
 ## 🚀 How to Use
