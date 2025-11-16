@@ -2,10 +2,12 @@
 
 
 
-##📝 Overview
+## 📝 Overview
+
 
 This repository contains solutions to various **Data Structures and Algorithms** problems that I practice and push regularly.  
 It serves as a personal archive, learning resource, and reference for interview preparation and competitive programming.
+
 
 ---
 
