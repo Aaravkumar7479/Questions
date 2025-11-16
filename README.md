@@ -11,13 +11,13 @@ It serves as a personal archive, learning resource, and reference for interview 
 
 ---
 
-## 📂 Contents
+## 📂 Contents <br>
 - Arrays & Strings
 - Linked Lists
 - Stacks & Queues
 - Trees & Binary Search Trees
-<!-- - Graphs & Traversal-->
 - Searching & Sorting
+<!-- - Graphs & Traversal-->
 <!-- - Recursion & Backtracking-->
 <!--- Dynamic Programming
 - Greedy Algorithms
