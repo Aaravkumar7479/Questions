@@ -12,7 +12,7 @@ It serves as a personal archive, learning resource, and reference for interview 
 ---
 
 ## 📂 Contents 
-<br>
+
 - Arrays & Strings
 - Linked Lists
 - Stacks & Queues
